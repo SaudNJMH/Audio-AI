@@ -1,0 +1,13 @@
+audio,n_segments,runtime_sec,output_file,error
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo10_ar.wav,7.0,11.891501426696777,../results/pyannote_predictions/solo10_ar_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo3_ar.wav,62.0,9.0211660861969,../results/pyannote_predictions/solo3_ar_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers7_ar.wav,37.0,10.510358810424805,../results/pyannote_predictions/two_speakers7_ar_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers10_ar.wav,80.0,14.052233219146729,../results/pyannote_predictions/two_speakers10_ar_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers5_ar.wav,107.0,13.934647798538208,../results/pyannote_predictions/three_speakers5_ar_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/thr ee_speakers1_ar.wav,,,,File ..\audios-wav\12-audios-ar-en\6-audios-ar\3_speakers_ar\thr ee_speakers1_ar.wav does not exist
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo3_en.wav,11.0,7.911485433578491,../results/pyannote_predictions/solo3_en_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo2_en.wav,43.0,7.776432752609253,../results/pyannote_predictions/solo2_en_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers8_en.wav,85.0,10.34462285041809,../results/pyannote_predictions/two_speakers8_en_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers7_en.wav,35.0,9.816937446594238,../results/pyannote_predictions/two_speakers7_en_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers2_en.wav,111.0,9.21977686882019,../results/pyannote_predictions/three_speakers2_en_pyannote.json,
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers8_en.wav,68.0,12.96445608139038,../results/pyannote_predictions/three_speakers8_en_pyannote.json,
