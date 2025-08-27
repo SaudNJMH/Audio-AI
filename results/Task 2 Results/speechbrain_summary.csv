@@ -1,0 +1,13 @@
+audio,n_segments,runtime_sec,output_file
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo10_ar.wav,85,55.03438210487366,../results/speechbrain_predictions/solo10_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo3_ar.wav,60,23.028746843338013,../results/speechbrain_predictions/solo3_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers7_ar.wav,36,41.52580666542053,../results/speechbrain_predictions/two_speakers7_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers10_ar.wav,61,52.15325999259949,../results/speechbrain_predictions/two_speakers10_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers5_ar.wav,65,59.5458550453186,../results/speechbrain_predictions/three_speakers5_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers1_ar.wav,42,63.39809274673462,../results/speechbrain_predictions/three_speakers1_ar_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo3_en.wav,59,38.71946406364441,../results/speechbrain_predictions/solo3_en_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo2_en.wav,80,38.316006898880005,../results/speechbrain_predictions/solo2_en_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers8_en.wav,65,58.24146008491516,../results/speechbrain_predictions/two_speakers8_en_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers7_en.wav,63,48.594237089157104,../results/speechbrain_predictions/two_speakers7_en_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers2_en.wav,42,62.81095814704895,../results/speechbrain_predictions/three_speakers2_en_speechbrain.json
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers8_en.wav,57,94.09662294387817,../results/speechbrain_predictions/three_speakers8_en_speechbrain.json

@@ -3,560 +3,560 @@
     "start": 0.03096875,
     "end": 15.184718750000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 15.69096875,
     "end": 21.31034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 21.934718750000002,
     "end": 23.21721875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 23.774093750000002,
     "end": 24.347843750000003,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 24.58409375,
     "end": 27.50346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 27.70596875,
     "end": 29.730968750000002,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 28.836593750000002,
     "end": 36.73409375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 37.00409375,
     "end": 38.92784375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 39.16409375,
     "end": 41.22284375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 42.01596875,
     "end": 48.900968750000004,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 49.17096875,
     "end": 51.16221875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 51.49971875,
     "end": 55.04346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 55.48221875,
     "end": 58.09784375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 58.469093750000006,
     "end": 60.08909375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 59.78534375,
     "end": 61.48971875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 61.658468750000004,
     "end": 63.91971875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 64.39221875,
     "end": 66.01221875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 66.51846875000001,
     "end": 69.97784375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 69.38721875,
     "end": 71.91846875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 72.28971875,
     "end": 73.35284375,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 73.99409375,
     "end": 74.36534375000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 74.48346875,
     "end": 75.66471875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 75.66471875,
     "end": 76.03596875000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 76.03596875000001,
     "end": 80.59221875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 78.65159375,
     "end": 81.41909375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 82.04346875,
     "end": 85.82346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 86.46471875,
     "end": 86.90346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 87.73034375,
     "end": 90.44721875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 90.78471875000001,
     "end": 91.51034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 91.83096875000001,
     "end": 94.46346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 94.22721875,
     "end": 95.03721875000001,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 94.93596875,
     "end": 97.72034375000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 98.15909375000001,
     "end": 100.42034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 100.99409375,
     "end": 105.39846875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 106.09034375,
     "end": 110.66346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 112.31721875000001,
     "end": 112.97534375000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 113.48159375,
     "end": 114.52784375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 115.01721875000001,
     "end": 115.65846875000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 115.94534375,
     "end": 118.42596875000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 118.59471875000001,
     "end": 126.72846875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 126.96471875,
     "end": 129.85034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 128.73659375,
     "end": 130.37346875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 131.72346875,
     "end": 132.49971875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 132.98909375,
     "end": 133.69784375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 134.13659375,
     "end": 134.98034375,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 134.98034375,
     "end": 137.76471875000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 138.25409375,
     "end": 139.48596875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 138.43971875,
     "end": 139.28346875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 139.48596875,
     "end": 140.26221875000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 139.51971875,
     "end": 139.58721875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 141.15659375,
     "end": 142.38846875000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 141.96659375000002,
     "end": 142.84409375,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 142.87784375,
     "end": 148.21034375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 143.51909375,
     "end": 145.32471875000002,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 148.93596875,
     "end": 153.77909375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 154.42034375,
     "end": 164.59596875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 165.30471875,
     "end": 171.02534375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 171.81846875000002,
     "end": 173.23596875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 174.56909375,
     "end": 181.52159375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 181.99409375000002,
     "end": 184.55909375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 184.96409375000002,
     "end": 184.98096875000002,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 186.90471875,
     "end": 194.38034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 194.02596875,
     "end": 196.70909375000002,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 195.32534375,
     "end": 202.31159375000001,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 203.07096875000002,
     "end": 205.51784375000003,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 206.76659375000003,
     "end": 208.72409375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 209.98971875,
     "end": 213.98909375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 214.20846875,
     "end": 218.79846875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 219.38909375,
     "end": 222.84846875000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 223.05096875,
     "end": 223.92846875,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 223.10159375,
     "end": 226.45971875,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 227.03346875000003,
     "end": 229.95284375000003,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 231.23534375000003,
     "end": 233.91846875000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 234.17159375000003,
     "end": 237.98534375000003,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 237.98534375000003,
     "end": 238.40721875000003,
     "labels": [
-      "SPEAKER_01"
+      "Speaker 2"
     ]
   },
   {
     "start": 238.40721875000003,
     "end": 240.38159375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 241.07346875000002,
     "end": 241.63034375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 241.88346875000002,
     "end": 243.11534375000002,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 244.66784375,
     "end": 246.43971875000003,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   },
   {
     "start": 247.24971875000003,
     "end": 247.97534375,
     "labels": [
-      "SPEAKER_00"
+      "Speaker 1"
     ]
   }
 ]

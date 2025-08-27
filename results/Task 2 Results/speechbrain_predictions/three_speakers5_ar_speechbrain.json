@@ -1,0 +1,457 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.5,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 3.93,
+    "end": 5.43,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 9.36,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 13.88,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 18.9,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 18.4,
+    "end": 19.4,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 20.13,
+    "end": 21.13,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 25.51,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 26.43,
+    "end": 28.43,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 30.06,
+    "end": 35.06,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 34.56,
+    "end": 36.06,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 37.23,
+    "end": 38.23,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 40.14,
+    "end": 42.14,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 45.78,
+    "end": 48.28,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 49.2,
+    "end": 53.2,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 55.29,
+    "end": 72.42,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 73.23,
+    "end": 79.96,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 82.5,
+    "end": 86.5,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 86.97,
+    "end": 101.47,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 102.69,
+    "end": 104.19,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 105.15,
+    "end": 106.65,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 106.95,
+    "end": 107.95,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 108.84,
+    "end": 109.84,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 110.37,
+    "end": 111.87,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 112.95,
+    "end": 119.95,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 120.48,
+    "end": 124.48,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 126.15,
+    "end": 127.65,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 128.43,
+    "end": 129.43,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 130.74,
+    "end": 132.24,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 132.72,
+    "end": 133.72,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 134.58,
+    "end": 138.08,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 138.72,
+    "end": 142.72,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 144.33,
+    "end": 147.33,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 147.84,
+    "end": 149.34,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 150.33,
+    "end": 151.83,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 152.85,
+    "end": 159.85,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 160.56,
+    "end": 163.24,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 163.74,
+    "end": 168.74,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 169.23,
+    "end": 172.73,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 173.46,
+    "end": 174.46,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 177.0,
+    "end": 182.64,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 183.15,
+    "end": 184.15,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 185.67,
+    "end": 188.67,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 188.17,
+    "end": 189.17,
+    "labels": [
+      "Speaker 2"
+    ]
+  },
+  {
+    "start": 188.67,
+    "end": 203.67,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 204.21,
+    "end": 206.21,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 207.18,
+    "end": 209.18,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 211.98,
+    "end": 213.48,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 215.94,
+    "end": 220.44,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 220.83,
+    "end": 224.33,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 226.83,
+    "end": 228.33,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 229.65,
+    "end": 232.65,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 233.16,
+    "end": 235.16,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 235.5,
+    "end": 244.5,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 244.83,
+    "end": 269.02,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 271.17,
+    "end": 273.17,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 275.79,
+    "end": 276.79,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 277.17,
+    "end": 282.42,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 285.66,
+    "end": 288.16,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 289.11,
+    "end": 291.11,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 292.86,
+    "end": 294.36,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 295.08,
+    "end": 305.58,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 305.91,
+    "end": 308.91,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 309.9,
+    "end": 310.9,
+    "labels": [
+      "Speaker 1"
+    ]
+  },
+  {
+    "start": 312.84,
+    "end": 314.34,
+    "labels": [
+      "Speaker 1"
+    ]
+  }
+]
