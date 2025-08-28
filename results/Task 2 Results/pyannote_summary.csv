@@ -1,13 +1,13 @@
 audio,n_segments,runtime_sec,output_file
-../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo10_ar.wav,7,242.92145705223083,../results/pyannote_predictions/solo10_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo3_ar.wav,62,219.93513584136963,../results/pyannote_predictions/solo3_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers7_ar.wav,37,215.25418400764465,../results/pyannote_predictions/two_speakers7_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers10_ar.wav,80,282.31362795829773,../results/pyannote_predictions/two_speakers10_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers5_ar.wav,107,362.47181129455566,../results/pyannote_predictions/three_speakers5_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers1_ar.wav,42,296.2276270389557,../results/pyannote_predictions/three_speakers1_ar_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo3_en.wav,11,205.73176908493042,../results/pyannote_predictions/solo3_en_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo2_en.wav,43,202.75855207443237,../results/pyannote_predictions/solo2_en_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers8_en.wav,85,301.7026791572571,../results/pyannote_predictions/two_speakers8_en_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers7_en.wav,35,303.2049551010132,../results/pyannote_predictions/two_speakers7_en_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers2_en.wav,111,280.5418019294739,../results/pyannote_predictions/three_speakers2_en_pyannote.json
-../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers8_en.wav,68,395.8358430862427,../results/pyannote_predictions/three_speakers8_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo10_ar.wav,7,242.92145705223083,../results/Task 2 Results/pyannote_predictions/solo10_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/1_speaker_ar/solo3_ar.wav,62,219.93513584136963,../results/Task 2 Results/pyannote_predictions/solo3_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers7_ar.wav,37,215.25418400764465,../results/Task 2 Results/pyannote_predictions/two_speakers7_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/2_speakers_ar/two_speakers10_ar.wav,80,282.31362795829773,../results/Task 2 Results/pyannote_predictions/two_speakers10_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers5_ar.wav,107,362.47181129455566,../results/Task 2 Results/pyannote_predictions/three_speakers5_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-ar/3_speakers_ar/three_speakers1_ar.wav,42,296.2276270389557,../results/Task 2 Results/pyannote_predictions/three_speakers1_ar_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo3_en.wav,11,205.73176908493042,../results/Task 2 Results/pyannote_predictions/solo3_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/1_speaker_en/solo2_en.wav,43,202.75855207443237,../results/Task 2 Results/pyannote_predictions/solo2_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers8_en.wav,85,301.7026791572571,../results/Task 2 Results/pyannote_predictions/two_speakers8_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/2_speakers_en/two_speakers7_en.wav,35,303.2049551010132,../results/Task 2 Results/pyannote_predictions/two_speakers7_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers2_en.wav,111,280.5418019294739,../results/Task 2 Results/pyannote_predictions/three_speakers2_en_pyannote.json
+../audios-wav/12-audios-ar-en/6-audios-en/3_speakers_en/three_speakers8_en.wav,68,395.8358430862427,../results/Task 2 Results/pyannote_predictions/three_speakers8_en_pyannote.json
